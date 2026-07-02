@@ -1,0 +1,8 @@
+# Normalise line endings: store everything as LF in the repo.
+* text=auto eol=lf
+
+*.py text eol=lf
+*.html text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
